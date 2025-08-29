@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer skilled in HTML , CSS , JS , PHP , SQL . I enjoy building projects that solve problems and contributing to open-source. Check out my repos and feel free to connect!
+A passionate developer skilled in HTML , CSS , JS , PHP , SQL , Java . I enjoy building projects that solve problems and contributing to open-source. Check out my repos and feel free to connect!
 
 
 ## 🌐 Socials:

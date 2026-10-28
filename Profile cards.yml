@@ -1,0 +1,21 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # If you see "Resource not accessible by integration", create a
+          # Personal Access Token and use it here instead (secrets.PROFILE_TOKEN)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}

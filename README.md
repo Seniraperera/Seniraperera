@@ -1,10 +1,10 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Senira%20Perera&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open-Source%20Enthusiast&descSize=17&descAlignY=58" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Senira%20Perera&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Automation%20Builder%20%E2%80%A2%20Open-Source%20Enthusiast&descSize=17&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://github.com/seniraperera">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Senira+%F0%9F%91%8B;I+turn+coffee+into+clean+code+%E2%98%95;I+build+things+that+solve+real+problems;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+PHP+%E2%80%A2+SQL+%E2%80%A2+Java;Open+to+collaborating+on+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Senira+%F0%9F%91%8B;Java+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+Dart+%E2%80%A2+Lua;Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop+%E2%80%A2+Automation;I+build+things+that+solve+real+problems+%F0%9F%9B%A0%EF%B8%8F;Open+to+collaborating+on+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,32 +24,60 @@
 const senira = {
   location: "Sri Lanka 🇱🇰",
   role: "Full-Stack Developer",
-  languages: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "Java", "Lua"],
-  frameworks: ["Laravel", "Bootstrap"],
-  currentlyLearning: ["System design", "TypeScript", "Open-source workflows"],
-  lovesTo: ["Build useful things", "Solve tricky bugs", "Contribute to open source"],
-  funFact: "I debug with console.log and I'm not ashamed 😎",
-  askMeAbout: ["Web dev", "PHP & Laravel", "Databases", "Arduino projects"],
+  languages: ["Java", "PHP", "JavaScript", "Python", "Dart", "Lua"],
+  web: ["HTML5", "CSS3", "Bootstrap", "React", "Laravel", "REST APIs"],
+  mobileAndDesktop: ["Flutter", "Java Swing", "PySide6"],
+  cloud: ["Firebase", "Linux", "Ubuntu", "VPS", "Docker", "GitHub Actions"],
+  automation: ["Python", "Playwright", "PySide6"],
+  alsoInto: ["UI/UX with Figma & Adobe XD", "Arduino & hardware tinkering"],
+  lovesTo: ["Build useful things", "Automate boring stuff", "Contribute to open source"],
 };
 ```
 
 - 🔭 Building projects that solve real-world problems
-- 🌱 Always learning, always shipping
+- 📱 Shipping across web, mobile and desktop
+- 🤖 Automating workflows with Python, Playwright and GitHub Actions
 - 🤝 Open to open-source contributions and collaboration
-- ⚡ Check out my repos and feel free to connect!
 
 <!-- ========================= TECH STACK ========================= -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+| Category | Technologies |
+|:--|:--|
+| 💬 **Programming Languages** | Java · PHP · JavaScript · Python · Dart · Lua |
+| 🌐 **Web Development** | HTML5 · CSS3 · Bootstrap · React |
+| ⚙️ **Backend Development** | PHP · Laravel · Java · REST APIs |
+| 📱 **Mobile & Desktop** | Flutter · Java Swing |
+| 🗄️ **Databases** | MySQL · SQLite · Firebase Firestore |
+| ☁️ **Cloud & Infrastructure** | Firebase · Linux · Ubuntu · VPS · Docker · GitHub Actions |
+| 🧰 **Development Tools** | Git · GitHub · VS Code · NetBeans · Android Studio |
+| 🤖 **Automation** | Python · Playwright · PySide6 |
+| 🎨 **Design & Hardware** | Figma · Adobe XD · Arduino |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,lua,mysql,sqlite&theme=dark" alt="languages"/>
+<br/>
 
-**Frameworks & Tools**
+**💬 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,php,js,py,dart,lua&theme=dark" alt="languages"/>
 
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,figma,arduino,git,github,vscode,linux&theme=dark" alt="tools"/>
+**🌐 Web & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,laravel&theme=dark" alt="web"/>
+
+**📱 Mobile & Desktop**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,qt&theme=dark" alt="mobile"/>
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" alt="databases"/>
+
+**☁️ Cloud & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,linux,ubuntu,docker,githubactions&theme=dark" alt="cloud"/>
+
+**🧰 Dev Tools & Automation**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,playwright&theme=dark" alt="tools"/>
+
+**🎨 Design & Hardware**<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,arduino&theme=dark" alt="design"/>
 
 </div>
 

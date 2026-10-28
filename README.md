@@ -86,23 +86,14 @@ const senira = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=seniraperera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniraperera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&langs_count=8" alt="top langs"/>
+<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="48%"/>
+<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="48%"/>
+
+<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="48%"/>
+<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=seniraperera&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" alt="streak"/>
 
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seniraperera&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=seniraperera&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
 </div>
 
 <!-- ========================= SNAKE ========================= -->

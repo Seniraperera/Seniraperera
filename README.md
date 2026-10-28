@@ -86,21 +86,20 @@ const senira = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="48%"/>
-<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seniraperera&theme=tokyonight" alt="profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seniraperera&theme=tokyonight" alt="stats" width="49%"/>
 
-<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="48%"/>
-<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seniraperera&theme=tokyonight" alt="most commit language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seniraperera&theme=tokyonight" alt="repos per language" width="49%"/>
 
 <img src="https://streak-stats.demolab.com?user=seniraperera&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" alt="streak"/>
 
 </div>
 
-<!-- ========================= SNAKE ========================= -->
-### 🐍 Contribution Snake
+### 📈 Contribution Heatmap
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/seniraperera/seniraperera/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://ghchart.rshah.org/24c6dc/seniraperera" alt="contribution heatmap" width="100%"/>
 </div>
 
 <!-- ========================= QUOTE ========================= -->
